@@ -1,0 +1,18 @@
+# Videos y Audio
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.aac
+*.mp3
+*.wav
+
+# Benchmarks (Reportes de mediciones)
+bench_*.md
+benchmark_*.md
+HD*
+tp.md
+
+# Cache de Python
+__pycache__/
+*.pyc
